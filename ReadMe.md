@@ -1,36 +1,4 @@
 
-    </div>
-  </div>
-
-  <div class="container" style="--line-height: 1.6em;" dir="ltr">
-    <div class="header reader-header reader-show-element">
-      <a class="domain reader-domain" href="https://www.howtoforge.com/create-a-statefulset-in-kubernetes/">howtoforge.com</a>
-      <div class="domain-border"></div>
-      <h1 class="reader-title">How to create a StatefulSet in Kubernetes</h1>
-      <div class="credits reader-credits">Rahul Shivalkar</div>
-      <div class="meta-data">
-        <div class="reader-estimated-time" dir="ltr">4-5 minutes</div>
-      </div>
-    </div>
-
-    <hr>
-
-    <div class="content">
-      <div class="moz-reader-content reader-show-element"><div id="readability-page-1" class="page">
-
-<header>
-<div id="header">
-<div id="logo"><a href="https://www.howtoforge.com/">
-<span></span>
-<img src="StatefulSets-in-Kubernetes_files/howtoforge_logo_trans.gif" alt="Howtoforge" data-ezsrc="/images/howtoforge_logo_trans.gif">
-</a></div>
-<span></span>
-</div>
-</header>
-<div id="content"><span id="ezoic-pub-ad-placeholder-105"></span>
-<div>
-
-<div id="htfContentPage">
 
 <article>
 <h2>How to create a StatefulSet in Kubernetes</h2>
