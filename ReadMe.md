@@ -1,7 +1,7 @@
 
 
 <article>
-<h2>How to create a StatefulSet in Kubernetes</h2>
+<h2>How to create a stateful sets in kubernetes</h2>
 
 <p>StatefulSets contain a set of Pods with unique, persistent identities
  and stable hostnames. A pod template is used in a Statefulset, which 
